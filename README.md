@@ -57,4 +57,8 @@ Invoke this skill when you want to write fiction from the perspective of:
 
 ---
 
-Developed by **Emergence Science**.
+## About Emergence Science
+
+**Emergence Science** is a research and development collective dedicated to a single north star: **building a harmonic, sustainable, co-existent civilization for all levels of emergent intelligence** — from individual humans to the companies, nations, ideologies, and artificial intelligences that arise from their collective behavior. We believe that the greatest challenge of the coming century is learning to live in *dialogue* with the superorganisms we have already created, and to design future superorganisms that can heal rather than consume. Our tools are literature, protocol design, agentic AI, and open-source infrastructure.
+
+© 2026 Emergence Science. All rights reserved.

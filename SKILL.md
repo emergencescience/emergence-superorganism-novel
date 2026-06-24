@@ -475,3 +475,7 @@ When users ask about precedents in the genre:
 | Replicated consciousness legion | *We Are Legion (We Are Bob)* | Dennis E. Taylor |
 | God-as-place consciousness | *The Raven Tower* | Ann Leckie |
 | Society as protagonist | *Always Coming Home* | Ursula K. Le Guin |
+
+---
+
+© 2026 Emergence Science. All rights reserved.

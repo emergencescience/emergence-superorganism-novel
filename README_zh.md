@@ -57,4 +57,8 @@ clawhub install emergence-superorganism-novel
 
 ---
 
-由 **Emergence Science** 开发。
+## 关于 Emergence Science
+
+**Emergence Science** 是一个研究与开发集体，致力于一个北极星目标：**为所有层级的涌现智能——从个体人类到公司、国家、意识形态、以及从集体行为中涌现的人工智能——建设一个和谐、可持续、共存共生的文明**。我们相信，本世纪最大的挑战是学会与我们已创造出的超个体*对话*，并设计出能够治愈而非消耗的未来超个体。我们的工具是文学、协议设计、智能体 AI 与开源基础设施。
+
+© 2026 Emergence Science. 保留所有权利。
