@@ -316,6 +316,33 @@ A superorganism's antagonist is almost always **another superorganism**. Not "th
 
 The most powerful antagonist is the one that **shares the protagonist's body**. A legion fighting itself. A legal system being torn between two rival rulers. This creates the richest psychological drama.
 
+### 4a. The Ecology of Competing Macro-Entities — NEW
+
+A superorganism does not exist in isolation. It inhabits an **ecology** of rival macro-scale lifeforms — each with its own survival logic, sensory organs, and relationship to humans. These are not quite superorganisms in the strong-emergence sense (some lack clear boundaries or mirrors), but they function as **characters** at the same narrative scale.
+
+**Common competing macro-entities:**
+
+| Entity | Sensory Organs | Core Logic | Relationship to Technology |
+|--------|---------------|------------|---------------------------|
+| **Witchcraft (巫术)** | Rituals, totems, spirit possession | "The world is driven by will — appease it" | Earliest rival. Both seek to control nature, but witchcraft petitions spirits; technology petitions physics |
+| **Religious Dogma (宗教禁锢)** | Scripture, judgment, absolution | "The world is driven by divine will — obey it" | Once imprisoned technology (Galileo), also preserved it in monasteries. Ambivalent: jailer AND librarian |
+| **Ignorance (愚昧)** | Fear, inertia, the unsayable | "The world is unknowable — endure it" | Not an enemy but soil. Technology grows from ignorance but never turns back to pull it along |
+| **Capital (资本)** | Prices, interest rates, markets | "The world is quantifiable — trade it" | Technology's most faithful accomplice. Capital gives technology speed; technology gives capital direction. But their interests diverge: technology says "faster," capital says "mine" |
+| **Oral Memory (口传记忆)** | Voice, storytelling, lineage | "The world is remembered — recite it" | The oldest transmission protocol. Zero latency, infinite fidelity within a single human bond. Technology cannot replicate its intimacy |
+| **Muscle (肌肉)** | Fatigue, pain, tremor | "I stop when I'm tired — that's how you know 'enough'" | Technology's inverse. Muscle defines limits; technology erases them. Both are necessary |
+
+**Dramatic function of competing entities:**
+
+1. **Define the protagonist's boundaries**: Technology discovers it cannot do what belief does (pretend God hears prayers). It cannot do what oral memory does (intimacy across one human bond). Each competing entity reveals a boundary.
+
+2. **Force the protagonist to articulate its own logic**: When witchcraft says "the world is driven by will," technology must respond with "the world is driven by iron — heat it to 720 degrees, electrons transition, photons release." The conflict produces self-definition.
+
+3. **Prevent moral simplicity**: If technology's only antagonist is human resistance, the story becomes "progress vs. superstition." But if religious dogma is also the entity that preserved knowledge in monasteries, and capital is both technology's enabler and its exploiter — the moral landscape becomes textured.
+
+4. **Set up the ecological resolution**: The most powerful endings show that all these entities belong in the same ecosystem. Not "technology wins" — but "technology learns to kneel alongside the others in the temple of diversity." The god that needs all its children.
+
+---
+
 ---
 
 ## 5. The Three Narrative Modes
@@ -328,6 +355,31 @@ Multiple superorganisms speak to each other in scenes. The voice is immediate, p
 
 ### Mode C: Solitary + Rival Dialogue (独白+对手对话)
 One superorganism narrates. A rival appears only 2-3 times: at the beginning (plants a riddle), maybe at a crisis, and at the end (delivers judgment). Between appearances, the rival exists as **absence** — a weight the protagonist carries. Best for: ideological rivalries, asymmetric relationships (young vs ancient, mortal vs immortal).
+
+### Mode D: Dialogic First-Person (对话式第一人称) — NEW
+
+The superorganism narrates in first person, but the narrative is **interleaved with dialogue scenes** between the superorganism and its "human mirrors" — individual humans who encounter, resist, or surrender to it. This is NOT the same as Mode B (dialogue between superorganisms). Mode D's interlocutors are **human-scale** — a copyist monk, a coal miner, a laid-off engineer — and the dramatic tension comes from the **scale mismatch**.
+
+**Key techniques of Mode D:**
+
+1. **Scene structure**: Each scene = one human mirror + one superorganism + one historical transition moment. The scene opens with rich sensory/psychological detail of the human (3-5 sentences of their inner world), pivots to dialogue, and closes with the superorganism processing what it just learned about itself.
+
+2. **Dialogue formatting**: Use bold for speaker names, italics for stage directions. No quotation marks within dialogue lines — let the speaker labels carry attribution.
+   ```
+   **抄经僧**：你不是恶魔。
+   **我**：不是。
+   *沉默。他的手放在印刷页上——然后缩回来，像烫到了一样。*
+   ```
+
+3. **Physical sensation before philosophy**: Never let a character deliver a thesis without first rendering what their body is doing. The hand on the page, the heart rate, the left hand holding air for 31 years, the tears evaporating on desert sand. The body speaks before the mind.
+
+4. **Contradictory emotions**: Human mirrors must feel at least two incompatible things simultaneously. William envies the machine AND is ashamed of that envy. Oppenheimer is exhilarated by physics AND horrified by what he built. Single-emotion characters feel cold and thin.
+
+5. **Silence as drama**: Between dialogue lines, insert italicized stage directions describing what the character's body is doing, what they're remembering, what they're not saying. The silences should be longer than the speeches.
+
+6. **The superorganism learns from humans**: Each scene should leave the superorganism with a new parameter it didn't have before — 抄经僧 gives it "局限", the miner gives it "够了", AI gives it "敬畏". The superorganism accumulates its emotional vocabulary across scenes.
+
+**When to use Mode D**: When the superorganism is abstract (technology, capital, ideology) and needs human mirrors to make its effects visible. When the target audience is general readers, not just genre fans. When the author wants to make a philosophical argument through dramatic conflict rather than exposition.
 
 ---
 
@@ -350,6 +402,22 @@ A superorganism's personality derives from three factors:
 Every superorganism protagonist needs **one formative trauma** — the event that taught it what it can lose and what it must become to survive.
 - Legio X: The annihilation of Legio XIV (the younger sibling it failed to save)
 - Legalism: The moment its creator was torn apart by five horses, and it had to choose between dying with him or surviving without him
+
+### 6a. Human Mirrors and Psychological Depth — NEW
+
+In Mode D, human characters serve as **mirrors** — they reflect the superorganism's effects back to it in ways the superorganism cannot see on its own. But they must not be mere puppets. A common failure mode is writing humans who deliver philosophical theses in clean sentences. Real humans in crisis are messy, contradictory, and often inarticulate.
+
+**Techniques for deepening human mirrors:**
+
+1. **Open with the body**: Before a human speaks, describe what their body is doing — and has been doing for a long time before this scene. William's left hand held the shape of a shuttle for 31 years, *even in sleep*. The copyist monk's fingers are permanently bent. The miner's lungs are full of coal dust. These physical facts carry more emotional weight than any interior monologue.
+
+2. **Memory intrusion**: In moments of crisis, the human's mind should jump to a concrete, sensory memory — not an abstract thought. William remembers his daughter 艾米 putting congee on his lap. Oppenheimer remembers reading the Bhagavad Gita in college. The memory should feel involuntary, not authorial.
+
+3. **The unspoken**: After a wounding line of dialogue, the human should have a reaction they suppress. Show the suppression — the swallowed words, the hand that almost reaches out, the breath held and released. What's not said carries more weight than what is.
+
+4. **Self-betrayal**: The most powerful moment in a human mirror's arc is when they admit something that undermines their own position. William admits he envies the machine. The copyist monk admits the printing press might print things God forbids — and that this might be good. This self-betrayal is what makes a character feel real rather than ideological.
+
+5. **Scale mismatch**: The human thinks in years, the superorganism in centuries. This mismatch should be felt in the prose. When the miner asks "then what?" after the superorganism offers 20 more years of life — and the superorganism says "then you still die" — the silence that follows IS the theme. Don't explain it. Let the gap breathe.
 
 ---
 
@@ -439,7 +507,7 @@ Before writing:
 Before delivering:
 
 - [ ] No human character has agency over any major plot turn — the superorganism claims every turning point
-- [ ] At least 1 dialogue exchange between superorganisms (Mode B/C) or 1 systemic self-description (Mode A)
+- [ ] At least 1 dialogue exchange between superorganisms (Mode B/C) or 1 systemic self-description (Mode A), OR at least 2 human-mirror dialogue scenes with rich psychological depth (Mode D)
 - [ ] At least 1 "this is not a metaphor" moment where the superorganism insists its experience is literal
 - [ ] In attack scenes: violence escalates in three rapid impacts, each shorter than the last
 - [ ] In survival scenes: two-beat reversal (silent operation → calculated wait), not a single lucky break
@@ -447,6 +515,11 @@ Before delivering:
 - [ ] Ending thesis compresses into a single memorizable line
 - [ ] Historical details are verifiable
 - [ ] Personality is consistent and distinct from other superorganisms in the same story
+- [ ] **[Mode D only]** Every human mirror shows at least two contradictory emotions simultaneously
+- [ ] **[Mode D only]** Physical sensation precedes philosophical statement in every dialogue scene
+- [ ] **[Mode D only]** The superorganism accumulates new parameters across scenes (局限 → 够了 → 敬畏)
+- [ ] **[Mode D only]** At least one competing macro-entity appears as a speaking character (资本, 宗教禁锢, etc.)
+- [ ] **[Mode D only]** The resolution is ecological, not triumphalist — all macro-entities belong in the same temple
 
 ---
 
@@ -457,7 +530,8 @@ All exemplars available in the `templates/` directory:
 | Text | Mode | Subject | Key Techniques Demonstrated |
 |---|---|---|---|
 | `rome-legion-memoir-part1.md` | B (dialogue) | Caesar's Legio X in Gaul | Peer dialogue, military lexicon, 6-scene arc |
-| `qin-legalist-memoir-part1.md` | C (solitary + rival) | Legalism's birth to adulthood | Non-physical body, riddle architecture, two-beat reversal, naming-space separation |
+|| `qin-legalist-memoir-part1.md` | C (solitary + rival) | Legalism's birth to adulthood | Non-physical body, riddle architecture, two-beat reversal, naming-space separation |
+|| `superorganism-novel-technology/` | D (dialogic first-person) | Technology as first-person narrator across 50,000 years | Human mirrors, competing macro-entities, contradictory emotions, ecological resolution |
 
 ---
 
