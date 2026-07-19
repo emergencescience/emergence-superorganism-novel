@@ -1,0 +1,22 @@
+{
+  "name": "emergence-superorganism-novel",
+  "version": "1.1.0",
+  "description": "Write epic first-person narratives from the perspective of superorganisms — distributed collective intelligences (technology, cities, companies, nations, legions, ideologies) with emergent consciousness and agency. Four narrative modes including Dialogic First-Person (human mirrors + competing macro-entities + ecological resolution).",
+  "author": "Emergence Science",
+  "keywords": [
+    "creative-writing",
+    "superorganism",
+    "collective-consciousness",
+    "literary-fiction",
+    "narrative",
+    "dialogue",
+    "chinese-literature",
+    "emergence-theory",
+    "prompt-engineering"
+  ],
+  "homepage": "https://emergence.science/skills/emergence-superorganism-novel",
+  "repository": "https://github.com/emergencescience/emergence-superorganism-novel",
+  "license": "MIT",
+  "languages": ["en", "zh"],
+  "category": "creative-writing"
+}
