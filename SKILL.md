@@ -318,28 +318,28 @@ The most powerful antagonist is the one that **shares the protagonist's body**. 
 
 ### 4a. The Ecology of Competing Macro-Entities — NEW
 
-A superorganism does not exist in isolation. It inhabits an **ecology** of rival macro-scale lifeforms — each with its own survival logic, sensory organs, and relationship to humans. These are not quite superorganisms in the strong-emergence sense (some lack clear boundaries or mirrors), but they function as **characters** at the same narrative scale.
+A superorganism does not exist in isolation. It inhabits an **ecology** of rival macro-scale lifeforms — each with its own survival logic, sensory organs, and relationship to humans. These are not quite superorganisms in the strong-emergence sense (some lack clear boundaries or mirrors), but they function as **characters** at the same narrative scale. They are the *other forces* that compete with the protagonist superorganism for human attention, loyalty, and resources.
 
 **Common competing macro-entities:**
 
-| Entity | Sensory Organs | Core Logic | Relationship to Technology |
-|--------|---------------|------------|---------------------------|
-| **Witchcraft (巫术)** | Rituals, totems, spirit possession | "The world is driven by will — appease it" | Earliest rival. Both seek to control nature, but witchcraft petitions spirits; technology petitions physics |
-| **Religious Dogma (宗教禁锢)** | Scripture, judgment, absolution | "The world is driven by divine will — obey it" | Once imprisoned technology (Galileo), also preserved it in monasteries. Ambivalent: jailer AND librarian |
-| **Ignorance (愚昧)** | Fear, inertia, the unsayable | "The world is unknowable — endure it" | Not an enemy but soil. Technology grows from ignorance but never turns back to pull it along |
-| **Capital (资本)** | Prices, interest rates, markets | "The world is quantifiable — trade it" | Technology's most faithful accomplice. Capital gives technology speed; technology gives capital direction. But their interests diverge: technology says "faster," capital says "mine" |
-| **Oral Memory (口传记忆)** | Voice, storytelling, lineage | "The world is remembered — recite it" | The oldest transmission protocol. Zero latency, infinite fidelity within a single human bond. Technology cannot replicate its intimacy |
-| **Muscle (肌肉)** | Fatigue, pain, tremor | "I stop when I'm tired — that's how you know 'enough'" | Technology's inverse. Muscle defines limits; technology erases them. Both are necessary |
+| Entity | Sensory Organs | Core Logic | Role in Superorganism Ecology |
+|--------|---------------|------------|------------------------------|
+| **Witchcraft / Magic (巫术)** | Rituals, totems, spirit possession | "The world is driven by will — appease it" | Competes on *method of control*. Both magic and ambitious superorganisms (empires, ideologies, technology) seek to control nature/humans — but magic petitions spirits; the superorganism petitions its own internal logic. The tension: *who decides outcomes — spirits or systems?* |
+| **Religious Dogma (宗教禁锢)** | Scripture, judgment, absolution | "The world is driven by divine will — obey it" | Competes on *source of authority*. Can imprison the protagonist (censorship, persecution) AND preserve it (monasteries as archives). Ambivalent: jailer AND librarian. The tension: *are answers revealed or discovered?* |
+| **Ignorance / Inertia (愚昧)** | Fear, habit, the unsayable | "The world is unknowable — endure it" | Competes on *willingness to know*. Not an enemy but the soil every superorganism grows from — and the weight it must drag behind it. The tension: *the protagonist outruns its own foundations; those left behind may turn against it.* |
+| **Capital / Markets (资本)** | Prices, interest rates, trade flows | "The world is quantifiable — trade it" | Competes on *allocation*. Capital is the protagonist's most effective amplifier — it provides speed, scale, resources. But their interests diverge: the protagonist says "faster, better"; capital says "mine, more." The tension: *who benefits from the protagonist's success?* |
+| **Oral Memory / Tradition (口传记忆)** | Voice, storytelling, lineage | "The world is remembered — recite it" | Competes on *fidelity of transmission*. The oldest data protocol: one human to another, zero infrastructure, infinite trust. The protagonist (writing, printing, databases) can store more but cannot replicate the intimacy of a voice in a dark room. The tension: *does more storage mean less meaning?* |
+| **Muscle / The Body (肌肉)** | Fatigue, pain, tremor, mortality | "I stop when I'm tired — that's how you know 'enough'" | Competes on *limits*. The body is the protagonist's inverse: it defines boundaries through exhaustion, the protagonist erases them through efficiency. But limits are not just obstacles — they are sensors. A body that never tires cannot know when to stop. The tension: *without limits, how do you know you've gone too far?* |
 
-**Dramatic function of competing entities:**
+**Dramatic function of competing entities (protagonist-agnostic):**
 
-1. **Define the protagonist's boundaries**: Technology discovers it cannot do what belief does (pretend God hears prayers). It cannot do what oral memory does (intimacy across one human bond). Each competing entity reveals a boundary.
+1. **Define the protagonist's boundaries**: Each entity reveals something the protagonist cannot do. An ideology cannot provide the intimacy of oral tradition. A company cannot provide the moral absolution of religion. A nation cannot provide the personal agency of the body's "I've had enough."
 
-2. **Force the protagonist to articulate its own logic**: When witchcraft says "the world is driven by will," technology must respond with "the world is driven by iron — heat it to 720 degrees, electrons transition, photons release." The conflict produces self-definition.
+2. **Force self-definition through contrast**: When magic says "the world is driven by will," the protagonist must articulate its own logic. The conflict produces the protagonist's clearest statement of identity — not through monologue, but through **dialogue with what it is not**.
 
-3. **Prevent moral simplicity**: If technology's only antagonist is human resistance, the story becomes "progress vs. superstition." But if religious dogma is also the entity that preserved knowledge in monasteries, and capital is both technology's enabler and its exploiter — the moral landscape becomes textured.
+3. **Prevent moral simplicity**: If the protagonist's only antagonist is human resistance, the story becomes "progress vs. backwardness." But if religious dogma is also what preserved knowledge, and capital is both enabler and exploiter — the moral landscape becomes textured. No entity is purely enemy or purely ally.
 
-4. **Set up the ecological resolution**: The most powerful endings show that all these entities belong in the same ecosystem. Not "technology wins" — but "technology learns to kneel alongside the others in the temple of diversity." The god that needs all its children.
+4. **Set up the ecological resolution**: The most powerful endings show that all these entities belong in the same ecosystem. Not "the protagonist wins" — but "the protagonist learns to kneel alongside the others." The god (diversity itself, the ecosystem of human needs) requires all its children. The protagonist is not the savior. It is one member of a pantheon.
 
 ---
 
